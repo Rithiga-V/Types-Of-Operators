@@ -1,0 +1,59 @@
+#color{
+text-align: center;
+    margin: 10px;
+
+    background-color: lightcoral;
+}
+
+
+
+#container{
+
+text-align:center;
+font-size: 30px;
+
+
+
+}
+#main{
+
+display: flex;
+gap: 70px;
+
+}
+#Operator1{
+    font-size: large;
+    background-color: white;
+    padding: 0;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    margin: 10px;
+}
+#Operator2{
+    font-size: large;
+    background-color: white;
+    padding: 0;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    margin: 10px ;
+}
+#Operator3{
+    font-size: large;
+    background-color: white;
+    padding: 0;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    margin: 10px ;
+}
+#Operator4{
+    font-size: large;
+    background-color: white;
+    padding: 0;
+    height: 200px;
+    width: 300px;
+    text-align: center;
+    margin: 10px ;
+}
